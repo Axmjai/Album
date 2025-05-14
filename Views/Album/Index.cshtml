@@ -1,0 +1,65 @@
+﻿@model IEnumerable<AlbumSong.Models.Album>
+@{
+    ViewData["Title"] = "Album List";
+    var index = 1;
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="fw-bold">📀 รายการอัลบั้ม</h2>
+        <a asp-action="Create" class="btn btn-success">➕ เพิ่มอัลบั้ม</a>
+    </div>
+
+    <table class="table table-bordered table-hover shadow-sm">
+        <thead class="table-dark text-center">
+            <tr>
+                <th style="width: 5%;">No</th>
+                <th style="width: 20%;">Name</th>
+                <th style="width: 25%;">Cover Photo</th>
+                <th style="width: 30%;">รายการเพลง</th>
+                <th style="width: 20%;">Manage</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var items in Model)
+            {
+                <tr>
+
+                    <td class="text-center align-middle">
+                        @index
+                    </td>
+
+                    <td class="align-middle text-center" >
+                        @items.Name
+                    </td>
+
+                    <td class="text-center align-middle">
+                        <img src="/uploads/@items.File.FileName" alt="ไม่พบภาพ" class="img-thumbnail" style="max-width: 150px;" />
+                    </td>
+
+                    <td class="align-middle text-center ">
+                        @{
+                            int num = 0;
+                            foreach (var songg in items.Songs)
+                            {
+                                if (!string.IsNullOrEmpty(songg.Name))
+                                {
+                                    num++;
+                                    <div>@num. @songg.Name</div>
+                                }
+                            }
+                        }
+                    </td>
+
+                    <td class="text-center align-middle">
+                        <a asp-action="Edit" asp-route-id="@items.Id" class="btn btn-sm btn-warning me-2">✏️ Edit</a>
+                        <a asp-action="Delete" asp-route-id="@items.Id" class="btn btn-sm btn-danger">🗑️ Delete</a>
+                    </td>
+                </tr>
+                index++;
+            }
+            
+        </tbody>
+    </table>
+</div>
