@@ -335,4 +335,5 @@ C:\Users\rodch\source\repos\AlbumSong\AlbumSong\bin\Debug\net9.0\ru\Microsoft.Co
 C:\Users\rodch\source\repos\AlbumSong\AlbumSong\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\rodch\source\repos\AlbumSong\AlbumSong\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\rodch\source\repos\AlbumSong\AlbumSong\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\rodch\source\repos\Albumsong\AlbumSong\obj\Debug\net9.0\compressed\2ioi91ta2n-fes4zdxik9.gz
+C:\Users\rodch\source\repos\Albumsong\AlbumSong\obj\Debug\net9.0\AlbumSong.sourcelink.json
+C:\Users\rodch\source\repos\Albumsong\AlbumSong\obj\Debug\net9.0\compressed\2ioi91ta2n-wdpt0lmqs4.gz

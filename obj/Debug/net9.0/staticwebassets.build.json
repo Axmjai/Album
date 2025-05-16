@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zJSPkPfHSRDkXlieVl0OWncxasfUgBKoW5cu/4XhreU=",
+  "Hash": "nd+YtlQQCa53q/L6klAK03Rk2nqkwzS3fmu7bsRdrGE=",
   "Source": "AlbumSong",
   "BasePath": "_content/AlbumSong",
   "Mode": "Default",
@@ -164,12 +164,12 @@
       "OriginalItemSpec": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\AlbumSong.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-fes4zdxik9.gz",
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-wdpt0lmqs4.gz",
       "SourceId": "AlbumSong",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/AlbumSong",
-      "RelativePath": "js/site#[.{fingerprint=fes4zdxik9}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=wdpt0lmqs4}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -178,8 +178,8 @@
       "RelatedAsset": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4hdfl0xjx7",
-      "Integrity": "+Pbxf/W+NjELja5aTQjaDP4XY8BvUNe/NcV+fxUpTAA=",
+      "Fingerprint": "8j0dcshx98",
+      "Integrity": "9A92Yz3A9JQbQ6/wP4NzPN8NpzC91MFLN2Ncr8VJnY0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\js\\site.js"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fes4zdxik9",
-      "Integrity": "ObCXtcfAZC605kxJ0oiU24e1BqeUKvZS71SMt2JlUXE=",
+      "Fingerprint": "wdpt0lmqs4",
+      "Integrity": "xHluGp3pqLByfJDBjILWXN/Hc3h4IqI2mlgIM90ptLg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2810,6 +2810,237 @@
       "OriginalItemSpec": "wwwroot\\uploads\\0e708be4-b70c-43cb-9365-706025c93e2dcbf6b9426ae14e5284b02e6dcb741850.jpg"
     },
     {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-15_09-33-48.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-15_09-33-48#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fggbybzjks",
+      "Integrity": "D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-15_09-33-48.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-16_10-10-18.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-16_10-10-18#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fggbybzjks",
+      "Integrity": "D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-16_10-10-18.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-19-38.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1017610143_2025-05-15_09-19-38#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bybwbghw38",
+      "Integrity": "gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1017610143_2025-05-15_09-19-38.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-22-40.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1017610143_2025-05-15_09-22-40#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bybwbghw38",
+      "Integrity": "gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1017610143_2025-05-15_09-22-40.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-23-44.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1017610143_2025-05-15_09-23-44#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bybwbghw38",
+      "Integrity": "gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1017610143_2025-05-15_09-23-44.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-24-12.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1017610143_2025-05-15_09-24-12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bybwbghw38",
+      "Integrity": "gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1017610143_2025-05-15_09-24-12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-33-15.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1017610143_2025-05-15_09-33-15#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bybwbghw38",
+      "Integrity": "gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1017610143_2025-05-15_09-33-15.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-35-06.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1017610143_2025-05-15_09-35-06#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bybwbghw38",
+      "Integrity": "gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1017610143_2025-05-15_09-35-06.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_11-32-34.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1017610143_2025-05-15_11-32-34#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bybwbghw38",
+      "Integrity": "gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1017610143_2025-05-15_11-32-34.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_12-55-22.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1017610143_2025-05-15_12-55-22#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bybwbghw38",
+      "Integrity": "gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1017610143_2025-05-15_12-55-22.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_14-33-36.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1017610143_2025-05-15_14-33-36#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bybwbghw38",
+      "Integrity": "gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1017610143_2025-05-15_14-33-36.jpg"
+    },
+    {
       "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\10f0a3bc-23db-42de-922e-6a53f0cc1adcCapture.PNG",
       "SourceId": "AlbumSong",
       "SourceType": "Discovered",
@@ -2829,6 +3060,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\10f0a3bc-23db-42de-922e-6a53f0cc1adcCapture.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\11_2025-05-15_16-22-48.JPG",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/11_2025-05-15_16-22-48#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r8q4crc0cl",
+      "Integrity": "JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\11_2025-05-15_16-22-48.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\11_2025-05-16_10-08-13.JPG",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/11_2025-05-16_10-08-13#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r8q4crc0cl",
+      "Integrity": "JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\11_2025-05-16_10-08-13.JPG"
     },
     {
       "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\139f3324-5913-4459-82db-bd34cd3f8bb51017610143.jpg",
@@ -2955,6 +3228,195 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-14_19-05-23.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-14_19-10-19.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1659337958_90465_web666_2025-05-14_19-10-19#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tllmphszy",
+      "Integrity": "V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-14_19-10-19.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_09-55-45.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1659337958_90465_web666_2025-05-15_09-55-45#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tllmphszy",
+      "Integrity": "V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_09-55-45.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_09-55-46.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1659337958_90465_web666_2025-05-15_09-55-46#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tllmphszy",
+      "Integrity": "V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_09-55-46.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-02-33.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1659337958_90465_web666_2025-05-15_10-02-33#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tllmphszy",
+      "Integrity": "V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-02-33.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-17-56.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1659337958_90465_web666_2025-05-15_10-17-56#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tllmphszy",
+      "Integrity": "V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-17-56.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-21-16.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1659337958_90465_web666_2025-05-15_10-21-16#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tllmphszy",
+      "Integrity": "V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-21-16.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-27-22.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1659337958_90465_web666_2025-05-15_10-27-22#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tllmphszy",
+      "Integrity": "V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-27-22.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_11-58-38.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1659337958_90465_web666_2025-05-15_11-58-38#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tllmphszy",
+      "Integrity": "V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_11-58-38.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_12-52-00.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/1659337958_90465_web666_2025-05-15_12-52-00#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5tllmphszy",
+      "Integrity": "V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_12-52-00.jpg"
     },
     {
       "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\172a3665-4aba-4c69-ba5e-12ae03bef35d1017610143.jpg",
@@ -4112,6 +4574,132 @@
       "OriginalItemSpec": "wwwroot\\uploads\\ca56831d-0896-4c28-96d4-137d1de5d7391017610143.jpg"
     },
     {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture1_2025-05-15_15-24-21.JPG",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/Capture1_2025-05-15_15-24-21#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hks2m1wgks",
+      "Integrity": "IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Capture1_2025-05-15_15-24-21.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture1_2025-05-15_15-55-15.JPG",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/Capture1_2025-05-15_15-55-15#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hks2m1wgks",
+      "Integrity": "IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Capture1_2025-05-15_15-55-15.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture1_2025-05-15_17-06-49.JPG",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/Capture1_2025-05-15_17-06-49#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hks2m1wgks",
+      "Integrity": "IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Capture1_2025-05-15_17-06-49.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture3_2025-05-15_15-14-26.JPG",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/Capture3_2025-05-15_15-14-26#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "23xg7cyx73",
+      "Integrity": "foIISZeuhekw0INxfl1x+H9gsXkazwQW7qVHgUiKpQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Capture3_2025-05-15_15-14-26.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture55_2025-05-15_15-01-00.JPG",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/Capture55_2025-05-15_15-01-00#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xmkn0bkz3m",
+      "Integrity": "OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Capture55_2025-05-15_15-01-00.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture55_2025-05-15_17-37-07.JPG",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/Capture55_2025-05-15_17-37-07#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xmkn0bkz3m",
+      "Integrity": "OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Capture55_2025-05-15_17-37-07.JPG"
+    },
+    {
       "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\cc09c26a-978d-418a-aff8-88640db4f3cf3.PNG",
       "SourceId": "AlbumSong",
       "SourceType": "Discovered",
@@ -4196,6 +4784,174 @@
       "OriginalItemSpec": "wwwroot\\uploads\\dfe9e2ee-f609-44fd-8d12-c557ac4b30a999296760_181652633165118_3273838284505088000_n.jpg"
     },
     {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_09-21-19.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download (1)_2025-05-15_09-21-19#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apyyajwvgw",
+      "Integrity": "LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download (1)_2025-05-15_09-21-19.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_09-43-23.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download (1)_2025-05-15_09-43-23#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apyyajwvgw",
+      "Integrity": "LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download (1)_2025-05-15_09-43-23.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_10-31-45.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download (1)_2025-05-15_10-31-45#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apyyajwvgw",
+      "Integrity": "LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download (1)_2025-05-15_10-31-45.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_11-32-08.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download (1)_2025-05-15_11-32-08#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apyyajwvgw",
+      "Integrity": "LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download (1)_2025-05-15_11-32-08.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_11-57-54.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download (1)_2025-05-15_11-57-54#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apyyajwvgw",
+      "Integrity": "LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download (1)_2025-05-15_11-57-54.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_12-12-56.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download (1)_2025-05-15_12-12-56#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apyyajwvgw",
+      "Integrity": "LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download (1)_2025-05-15_12-12-56.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_12-28-40.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download (1)_2025-05-15_12-28-40#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apyyajwvgw",
+      "Integrity": "LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download (1)_2025-05-15_12-28-40.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_14-59-16.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download (1)_2025-05-15_14-59-16#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apyyajwvgw",
+      "Integrity": "LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download (1)_2025-05-15_14-59-16.jpg"
+    },
+    {
       "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download.jpg",
       "SourceId": "AlbumSong",
       "SourceType": "Discovered",
@@ -4257,6 +5013,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\download_2025-05-14_19-07-53.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_09-40-30.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download_2025-05-15_09-40-30#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4qr26yj8v",
+      "Integrity": "/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download_2025-05-15_09-40-30.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_10-06-27.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download_2025-05-15_10-06-27#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4qr26yj8v",
+      "Integrity": "/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download_2025-05-15_10-06-27.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_10-22-56.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download_2025-05-15_10-22-56#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4qr26yj8v",
+      "Integrity": "/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download_2025-05-15_10-22-56.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_10-57-03.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download_2025-05-15_10-57-03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4qr26yj8v",
+      "Integrity": "/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download_2025-05-15_10-57-03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_12-49-04.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download_2025-05-15_12-49-04#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4qr26yj8v",
+      "Integrity": "/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download_2025-05-15_12-49-04.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_14-18-49.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/download_2025-05-15_14-18-49#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4qr26yj8v",
+      "Integrity": "/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download_2025-05-15_14-18-49.jpg"
     },
     {
       "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\e4dc97d1-bb7e-469f-9203-800ddcf4eb611007cdd0-4476-11ed-a568-dfa765a56312_webp_original.jpg",
@@ -4467,6 +5349,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\fbe28fe7-1350-4147-bb96-b9254b11713b1659337958_90465_web666.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-14_19-10-44.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-14_19-10-44#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5u63w1267z",
+      "Integrity": "o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-14_19-10-44.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_10-58-38.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_10-58-38#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5u63w1267z",
+      "Integrity": "o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_10-58-38.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_11-59-15.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_11-59-15#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5u63w1267z",
+      "Integrity": "o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_11-59-15.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_12-53-54.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_12-53-54#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5u63w1267z",
+      "Integrity": "o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_12-53-54.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\S__36945957_2025-05-15_11-36-29.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/S__36945957_2025-05-15_11-36-29#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vmhkydo7qz",
+      "Integrity": "R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\S__36945957_2025-05-15_11-36-29.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\S__36945957_2025-05-15_14-07-06.jpg",
+      "SourceId": "AlbumSong",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\",
+      "BasePath": "_content/AlbumSong",
+      "RelativePath": "uploads/S__36945957_2025-05-15_14-07-06#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vmhkydo7qz",
+      "Integrity": "R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\S__36945957_2025-05-15_14-07-06.jpg"
     },
     {
       "Identity": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Untitled-1.jpg",
@@ -5810,13 +6818,13 @@
       ]
     },
     {
-      "Route": "js/site.fes4zdxik9.js",
-      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-fes4zdxik9.gz",
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-wdpt0lmqs4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000756429652"
+          "Quality": "0.000710227273"
         }
       ],
       "ResponseHeaders": [
@@ -5826,19 +6834,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1321"
+          "Value": "1407"
         },
         {
           "Name": "ETag",
-          "Value": "\"+Pbxf/W+NjELja5aTQjaDP4XY8BvUNe/NcV+fxUpTAA=\""
+          "Value": "\"9A92Yz3A9JQbQ6/wP4NzPN8NpzC91MFLN2Ncr8VJnY0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 09:40:14 GMT"
+          "Value": "Thu, 15 May 2025 10:00:26 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -5854,26 +6862,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ObCXtcfAZC605kxJ0oiU24e1BqeUKvZS71SMt2JlUXE=\""
+          "Value": "W/\"xHluGp3pqLByfJDBjILWXN/Hc3h4IqI2mlgIM90ptLg=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "fes4zdxik9"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ObCXtcfAZC605kxJ0oiU24e1BqeUKvZS71SMt2JlUXE="
+          "Value": "sha256-xHluGp3pqLByfJDBjILWXN/Hc3h4IqI2mlgIM90ptLg="
         }
       ]
     },
     {
-      "Route": "js/site.fes4zdxik9.js",
+      "Route": "js/site.js",
       "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5883,7 +6883,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3014"
+          "Value": "3178"
         },
         {
           "Name": "Content-Type",
@@ -5891,11 +6891,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ObCXtcfAZC605kxJ0oiU24e1BqeUKvZS71SMt2JlUXE=\""
+          "Value": "\"xHluGp3pqLByfJDBjILWXN/Hc3h4IqI2mlgIM90ptLg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 09:40:14 GMT"
+          "Value": "Thu, 15 May 2025 10:00:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHluGp3pqLByfJDBjILWXN/Hc3h4IqI2mlgIM90ptLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-wdpt0lmqs4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9A92Yz3A9JQbQ6/wP4NzPN8NpzC91MFLN2Ncr8VJnY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 10:00:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9A92Yz3A9JQbQ6/wP4NzPN8NpzC91MFLN2Ncr8VJnY0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.wdpt0lmqs4.js",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-wdpt0lmqs4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000710227273"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1407"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9A92Yz3A9JQbQ6/wP4NzPN8NpzC91MFLN2Ncr8VJnY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 10:00:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xHluGp3pqLByfJDBjILWXN/Hc3h4IqI2mlgIM90ptLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wdpt0lmqs4"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHluGp3pqLByfJDBjILWXN/Hc3h4IqI2mlgIM90ptLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.wdpt0lmqs4.js",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHluGp3pqLByfJDBjILWXN/Hc3h4IqI2mlgIM90ptLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 10:00:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5905,7 +7050,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fes4zdxik9"
+          "Value": "wdpt0lmqs4"
         },
         {
           "Name": "label",
@@ -5913,13 +7058,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ObCXtcfAZC605kxJ0oiU24e1BqeUKvZS71SMt2JlUXE="
+          "Value": "sha256-xHluGp3pqLByfJDBjILWXN/Hc3h4IqI2mlgIM90ptLg="
         }
       ]
     },
     {
-      "Route": "js/site.fes4zdxik9.js.gz",
-      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-fes4zdxik9.gz",
+      "Route": "js/site.wdpt0lmqs4.js.gz",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-wdpt0lmqs4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5928,7 +7073,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1321"
+          "Value": "1407"
         },
         {
           "Name": "Content-Type",
@@ -5936,11 +7081,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+Pbxf/W+NjELja5aTQjaDP4XY8BvUNe/NcV+fxUpTAA=\""
+          "Value": "\"9A92Yz3A9JQbQ6/wP4NzPN8NpzC91MFLN2Ncr8VJnY0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 09:40:14 GMT"
+          "Value": "Thu, 15 May 2025 10:00:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5958,7 +7103,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fes4zdxik9"
+          "Value": "wdpt0lmqs4"
         },
         {
           "Name": "label",
@@ -5966,144 +7111,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+Pbxf/W+NjELja5aTQjaDP4XY8BvUNe/NcV+fxUpTAA="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-fes4zdxik9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000756429652"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1321"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+Pbxf/W+NjELja5aTQjaDP4XY8BvUNe/NcV+fxUpTAA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 09:40:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ObCXtcfAZC605kxJ0oiU24e1BqeUKvZS71SMt2JlUXE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ObCXtcfAZC605kxJ0oiU24e1BqeUKvZS71SMt2JlUXE="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3014"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ObCXtcfAZC605kxJ0oiU24e1BqeUKvZS71SMt2JlUXE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 09:40:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ObCXtcfAZC605kxJ0oiU24e1BqeUKvZS71SMt2JlUXE="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\obj\\Debug\\net9.0\\compressed\\2ioi91ta2n-fes4zdxik9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1321"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+Pbxf/W+NjELja5aTQjaDP4XY8BvUNe/NcV+fxUpTAA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 09:40:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+Pbxf/W+NjELja5aTQjaDP4XY8BvUNe/NcV+fxUpTAA="
+          "Value": "sha256-9A92Yz3A9JQbQ6/wP4NzPN8NpzC91MFLN2Ncr8VJnY0="
         }
       ]
     },
@@ -24100,6 +25108,908 @@
       ]
     },
     {
+      "Route": "uploads/1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-15_09-33-48.fggbybzjks.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-15_09-33-48.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fggbybzjks"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-15_09-33-48.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-15_09-33-48.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-15_09-33-48.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-16_10-10-18.fggbybzjks.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-16_10-10-18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 03:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fggbybzjks"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-16_10-10-18.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-16_10-10-18.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1007cdd0-4476-11ed-a568-dfa765a56312_webp_original_2025-05-16_10-10-18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 03:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D4YGmtvSsZtGapMeSCf3iS48YfMQ3LflcGzmv1xIhUI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-19-38.bybwbghw38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-19-38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:19:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bybwbghw38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1017610143_2025-05-15_09-19-38.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-19-38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-19-38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:19:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-22-40.bybwbghw38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-22-40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:22:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bybwbghw38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1017610143_2025-05-15_09-22-40.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-22-40.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-22-40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:22:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-23-44.bybwbghw38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-23-44.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:23:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bybwbghw38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1017610143_2025-05-15_09-23-44.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-23-44.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-23-44.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:23:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-24-12.bybwbghw38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-24-12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bybwbghw38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1017610143_2025-05-15_09-24-12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-24-12.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-24-12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-33-15.bybwbghw38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-33-15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bybwbghw38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1017610143_2025-05-15_09-33-15.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-33-15.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-33-15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:33:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-35-06.bybwbghw38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-35-06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bybwbghw38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1017610143_2025-05-15_09-35-06.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_09-35-06.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_09-35-06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_11-32-34.bybwbghw38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_11-32-34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:32:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bybwbghw38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1017610143_2025-05-15_11-32-34.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_11-32-34.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_11-32-34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:32:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_12-55-22.bybwbghw38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_12-55-22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bybwbghw38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1017610143_2025-05-15_12-55-22.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_12-55-22.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_12-55-22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:55:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_14-33-36.bybwbghw38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_14-33-36.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 07:33:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bybwbghw38"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1017610143_2025-05-15_14-33-36.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1017610143_2025-05-15_14-33-36.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1017610143_2025-05-15_14-33-36.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 07:33:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gz8mmEy8o7Qf/3xV04mVibBPIJc7ipZO5Rom8iro6cE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/10f0a3bc-23db-42de-922e-6a53f0cc1adcCapture.3ot3fiwivg.PNG",
       "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\10f0a3bc-23db-42de-922e-6a53f0cc1adcCapture.PNG",
       "Selectors": [],
@@ -24178,6 +26088,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-8y/UZcVp1ad9ba/PSKxLMS3BxDzwEDKiwRRdg6MSyvQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/11_2025-05-15_16-22-48.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\11_2025-05-15_16-22-48.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:22:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/11_2025-05-15_16-22-48.r8q4crc0cl.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\11_2025-05-15_16-22-48.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:22:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r8q4crc0cl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/11_2025-05-15_16-22-48.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/11_2025-05-16_10-08-13.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\11_2025-05-16_10-08-13.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 03:08:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/11_2025-05-16_10-08-13.r8q4crc0cl.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\11_2025-05-16_10-08-13.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 03:08:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r8q4crc0cl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/11_2025-05-16_10-08-13.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JQqlKSb85mKNHg/ddokWmwIwrvZl769icUZkdbO0xhA="
         }
       ]
     },
@@ -24660,6 +26734,744 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 14 May 2025 12:05:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-14_19-10-19.5tllmphszy.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-14_19-10-19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:10:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tllmphszy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1659337958_90465_web666_2025-05-14_19-10-19.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-14_19-10-19.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-14_19-10-19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:10:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_09-55-45.5tllmphszy.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_09-55-45.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tllmphszy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1659337958_90465_web666_2025-05-15_09-55-45.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_09-55-45.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_09-55-45.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_09-55-46.5tllmphszy.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_09-55-46.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:55:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tllmphszy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1659337958_90465_web666_2025-05-15_09-55-46.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_09-55-46.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_09-55-46.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:55:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_10-02-33.5tllmphszy.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-02-33.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:02:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tllmphszy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1659337958_90465_web666_2025-05-15_10-02-33.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_10-02-33.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-02-33.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:02:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_10-17-56.5tllmphszy.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-17-56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tllmphszy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1659337958_90465_web666_2025-05-15_10-17-56.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_10-17-56.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-17-56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_10-21-16.5tllmphszy.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-21-16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:21:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tllmphszy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1659337958_90465_web666_2025-05-15_10-21-16.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_10-21-16.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-21-16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:21:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_10-27-22.5tllmphszy.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-27-22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:27:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tllmphszy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1659337958_90465_web666_2025-05-15_10-27-22.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_10-27-22.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_10-27-22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:27:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_11-58-38.5tllmphszy.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_11-58-38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tllmphszy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1659337958_90465_web666_2025-05-15_11-58-38.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_11-58-38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_11-58-38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_12-52-00.5tllmphszy.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_12-52-00.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:52:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tllmphszy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1659337958_90465_web666_2025-05-15_12-52-00.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1659337958_90465_web666_2025-05-15_12-52-00.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\1659337958_90465_web666_2025-05-15_12-52-00.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:52:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29184,6 +31996,498 @@
       ]
     },
     {
+      "Route": "uploads/Capture1_2025-05-15_15-24-21.hks2m1wgks.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture1_2025-05-15_15-24-21.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:24:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hks2m1wgks"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Capture1_2025-05-15_15-24-21.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture1_2025-05-15_15-24-21.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture1_2025-05-15_15-24-21.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:24:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture1_2025-05-15_15-55-15.hks2m1wgks.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture1_2025-05-15_15-55-15.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:55:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hks2m1wgks"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Capture1_2025-05-15_15-55-15.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture1_2025-05-15_15-55-15.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture1_2025-05-15_15-55-15.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:55:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture1_2025-05-15_17-06-49.hks2m1wgks.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture1_2025-05-15_17-06-49.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 10:06:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hks2m1wgks"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Capture1_2025-05-15_17-06-49.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture1_2025-05-15_17-06-49.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture1_2025-05-15_17-06-49.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 10:06:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXdKgE9/vXkgX4luAjgfd61HXuGAv606n+maKfUK2ek="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture3_2025-05-15_15-14-26.23xg7cyx73.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture3_2025-05-15_15-14-26.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"foIISZeuhekw0INxfl1x+H9gsXkazwQW7qVHgUiKpQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:14:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "23xg7cyx73"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Capture3_2025-05-15_15-14-26.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-foIISZeuhekw0INxfl1x+H9gsXkazwQW7qVHgUiKpQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture3_2025-05-15_15-14-26.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture3_2025-05-15_15-14-26.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"foIISZeuhekw0INxfl1x+H9gsXkazwQW7qVHgUiKpQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:14:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-foIISZeuhekw0INxfl1x+H9gsXkazwQW7qVHgUiKpQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture55_2025-05-15_15-01-00.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture55_2025-05-15_15-01-00.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture55_2025-05-15_15-01-00.xmkn0bkz3m.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture55_2025-05-15_15-01-00.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xmkn0bkz3m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Capture55_2025-05-15_15-01-00.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture55_2025-05-15_17-37-07.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture55_2025-05-15_17-37-07.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 10:37:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Capture55_2025-05-15_17-37-07.xmkn0bkz3m.JPG",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\Capture55_2025-05-15_17-37-07.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 10:37:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xmkn0bkz3m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Capture55_2025-05-15_17-37-07.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OdTAFS2c6Egep1U2p6ZwrsxJrpJyPnT9JCwtIvGRfyE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/cc09c26a-978d-418a-aff8-88640db4f3cf3.PNG",
       "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\cc09c26a-978d-418a-aff8-88640db4f3cf3.PNG",
       "Selectors": [],
@@ -29512,6 +32816,662 @@
       ]
     },
     {
+      "Route": "uploads/download (1)_2025-05-15_09-21-19.apyyajwvgw.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_09-21-19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:21:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apyyajwvgw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download (1)_2025-05-15_09-21-19.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_09-21-19.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_09-21-19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:21:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_09-43-23.apyyajwvgw.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_09-43-23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apyyajwvgw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download (1)_2025-05-15_09-43-23.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_09-43-23.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_09-43-23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_10-31-45.apyyajwvgw.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_10-31-45.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:31:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apyyajwvgw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download (1)_2025-05-15_10-31-45.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_10-31-45.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_10-31-45.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:31:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_11-32-08.apyyajwvgw.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_11-32-08.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:32:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apyyajwvgw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download (1)_2025-05-15_11-32-08.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_11-32-08.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_11-32-08.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:32:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_11-57-54.apyyajwvgw.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_11-57-54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:57:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apyyajwvgw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download (1)_2025-05-15_11-57-54.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_11-57-54.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_11-57-54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:57:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_12-12-56.apyyajwvgw.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_12-12-56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apyyajwvgw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download (1)_2025-05-15_12-12-56.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_12-12-56.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_12-12-56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_12-28-40.apyyajwvgw.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_12-28-40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:28:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apyyajwvgw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download (1)_2025-05-15_12-28-40.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_12-28-40.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_12-28-40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:28:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_14-59-16.apyyajwvgw.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_14-59-16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 07:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apyyajwvgw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download (1)_2025-05-15_14-59-16.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download (1)_2025-05-15_14-59-16.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download (1)_2025-05-15_14-59-16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 07:59:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhqPv2Mwt2UQL6uuhSd1vAgaYQ723Kxrawe+hWbIElw="
+        }
+      ]
+    },
+    {
       "Route": "uploads/download.j4qr26yj8v.jpg",
       "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download.jpg",
       "Selectors": [],
@@ -29744,6 +33704,498 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 14 May 2025 12:07:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_09-40-30.j4qr26yj8v.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_09-40-30.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:40:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4qr26yj8v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download_2025-05-15_09-40-30.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_09-40-30.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_09-40-30.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 02:40:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_10-06-27.j4qr26yj8v.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_10-06-27.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:06:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4qr26yj8v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download_2025-05-15_10-06-27.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_10-06-27.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_10-06-27.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:06:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_10-22-56.j4qr26yj8v.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_10-22-56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:22:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4qr26yj8v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download_2025-05-15_10-22-56.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_10-22-56.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_10-22-56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:22:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_10-57-03.j4qr26yj8v.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_10-57-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:57:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4qr26yj8v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download_2025-05-15_10-57-03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_10-57-03.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_10-57-03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:57:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_12-49-04.j4qr26yj8v.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_12-49-04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:49:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4qr26yj8v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download_2025-05-15_12-49-04.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_12-49-04.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_12-49-04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:49:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_14-18-49.j4qr26yj8v.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_14-18-49.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 07:18:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4qr26yj8v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/download_2025-05-15_14-18-49.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/download_2025-05-15_14-18-49.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\download_2025-05-15_14-18-49.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uj2r+k8lmveqg9ccaGGYM6bypnBgeqD77ZomHKnhd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 07:18:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30574,6 +35026,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-V7Rofvcf7P6r+UWUIK/XTQk3OEFPsiFsSSm7ydbPYjo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-14_19-10-44.5u63w1267z.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-14_19-10-44.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5u63w1267z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-14_19-10-44.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-14_19-10-44.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-14_19-10-44.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_10-58-38.5u63w1267z.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_10-58-38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5u63w1267z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_10-58-38.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_10-58-38.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_10-58-38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 03:58:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_11-59-15.5u63w1267z.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_11-59-15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:59:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5u63w1267z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_11-59-15.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_11-59-15.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_11-59-15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:59:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_12-53-54.5u63w1267z.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_12-53-54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:53:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5u63w1267z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_12-53-54.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/NewJeans_X_OLENS_1_(cropped)_2025-05-15_12-53-54.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\NewJeans_X_OLENS_1_(cropped)_2025-05-15_12-53-54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 05:53:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o1ZIA89W60GHacPLoNIS61zDNqVA1HxclyByQPUT5+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/S__36945957_2025-05-15_11-36-29.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\S__36945957_2025-05-15_11-36-29.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:36:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/S__36945957_2025-05-15_11-36-29.vmhkydo7qz.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\S__36945957_2025-05-15_11-36-29.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 04:36:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vmhkydo7qz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/S__36945957_2025-05-15_11-36-29.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/S__36945957_2025-05-15_14-07-06.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\S__36945957_2025-05-15_14-07-06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 07:07:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/S__36945957_2025-05-15_14-07-06.vmhkydo7qz.jpg",
+      "AssetFile": "C:\\Users\\rodch\\source\\repos\\Albumsong\\AlbumSong\\wwwroot\\uploads\\S__36945957_2025-05-15_14-07-06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 07:07:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vmhkydo7qz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/S__36945957_2025-05-15_14-07-06.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R4xjJN3QC5MuOLnkdYP1O8nZS4BSt64QHivIAXyafjA="
         }
       ]
     },

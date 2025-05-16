@@ -23,7 +23,6 @@ let songIndex = 0;
 
 function addSong(name = " ") {
     const tbody = document.getElementById("songBody");
-
     const tr = document.createElement("tr");
     tr.innerHTML = `
             <td>
@@ -31,11 +30,11 @@ function addSong(name = " ") {
             </td>
             <td class="text-center">
                 <button type="button" class="btn btn-danger " onclick="removeRow(this) ">Delete</button>
-            </td>
-        `;
+            </td>`;
     tbody.appendChild(tr);
+   // $.validator.unobtrusive.parse("#albumForm");
     Updateindex();
-}
+}//    <span class="text-danger field-validation-valid" data-valmsg-for="Songs[${songIndex}].Name" data-valmsg-replace="true"></span>
 
 function removeRow(button) {
     const row = button.closest("tr");
@@ -43,14 +42,13 @@ function removeRow(button) {
     Updateindex();
 }
 
-function removeRowEdit(button) {
-        const row = button.closest("tr");
-        // ซ่อนแถว (แต่อย่าลบออกจาก DOM)
-        row.style.display = "none";
-        // ตั้งค่า IsDeleted = true
-    row.querySelector(".is-deleted-input").value = "true";
-    
-        Updateindex();
+function RemoveRow(btn) {
+    btn.closest('tr').remove();
+    const rows = document.querySelectorAll('#songTable tbody tr');
+    rows.forEach((row, index) => {
+        row.querySelector('input[name$=".Id"]').name = `Songs[${index}].Id`;
+        row.querySelector('input[name$=".Name"]').name = `Songs[${index}].Name`;
+    });
 }
 
 function Updateindex() {       //<tbody id="songBody">  ,  class

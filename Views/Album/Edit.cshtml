@@ -53,8 +53,7 @@
                         </thead>
                         <tbody id="songBody">
                             @{
-                                //  Song เป็น ICollectionมันไม่รองรับการเข้าถึงด้วย index([i]) ก็เลยต้องแปลงเป็น  List< > รองรับ เลยใช้ .ToList() 
-                                var listsong = Model?.Songs.ToList();
+                                List<Song> listsong = Model?.Songs.ToList();
 
                                 for (int i = 0; i < Model?.Songs.Count; i++)
                                 {
@@ -68,11 +67,14 @@
                                                 <input type="hidden" name="Songs[@i].CreateDate" value="@listsong[i].CreateDate" />
                                                 <input type="hidden" name="Songs[@i].UpdateBy" value="@listsong[i].UpdateBy" />
                                                 <input type="hidden" name="Songs[@i].UpdateDate" value="@listsong[i].UpdateDate" />
+
+                                                <!-- จุดสำคัญ: Hidden IsDelete -->
                                                 <input type="hidden" name="Songs[@i].IsDelete" value="false" class="is-deleted-input" />
+
                                                 <input type="text" name="Songs[@i].Name" class="form-control song-input" value="@listsong[i].Name" />
                                             </td>
                                             <td class="text-center">
-                                                <button type="button" class="btn btn-danger" onclick="removeRowEdit(this)">Delete</button>
+                                                <button type="button" class="btn btn-danger" onclick=" RemoveRow(this)">Delete</button>
                                             </td>
                                         </tr>
                                     }

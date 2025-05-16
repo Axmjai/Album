@@ -12,10 +12,10 @@ public partial class Album
     [Key]
     public int Id { get; set; }
     
-    public string Name { get; set; } = null!;
+    public string Name { get; set; } = null!; /* Aom 20250514 หา ข้อมูล null! */
 
     public int? FileId { get; set; }
-
+    
     public string? Description { get; set; }
 
     [StringLength(50)]
