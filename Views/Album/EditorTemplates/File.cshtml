@@ -1,0 +1,36 @@
+﻿@model AlbumSong.Models.File
+
+<div class="form-group mb-3">
+    <label class="form-label fw-bold">Cover Photo</label>
+
+    <!-- ช่องเลือกไฟล์ -->
+    <input type="file" name="Ifile" id="Ifile" class="form-control-file" onchange="previewImage()" @(Model?.FileName != null ? "" : "required") />
+
+    <!-- ส่งค่ารูปเดิมกลับ -->
+    @if (!string.IsNullOrEmpty(Model?.FileName))
+    {
+        @* ส่งค่ากลับเพื่อไม่ลืมไฟล์เดิม *@
+            <input type="hidden" name="File.FileName" value="@Model.FileName" />
+            <input type="hidden" name="File.FilePath" value="@Model.FilePath" />
+            <input type="hidden" name="File.IsDelete" value="@Model.IsDelete" />
+            <input type="hidden" name="File.CreateBy" value="@Model.CreateBy" />
+            <input type="hidden" name="File.CreateDate" value="@Model.CreateDate" />
+            <input type="hidden" name="File.UpdateBy" value="@Model.UpdateBy" />
+            <input type="hidden" name="File.UpdateDate" value="@Model.UpdateDate" />
+    }
+
+    <!-- แสดงภาพตัวอย่าง -->
+    <div class="mb-2 text-center">
+        <img id="preview"
+             width="200"
+             src="@(!string.IsNullOrEmpty(Model?.FileName) ? Url.Content("~/uploads/" + Model.FileName) : "#")"
+             alt="Preview image"
+             style="@(string.IsNullOrEmpty(Model?.FileName) ? "display:none;" : "display:block;") border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

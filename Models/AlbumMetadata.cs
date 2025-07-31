@@ -6,8 +6,9 @@ namespace AlbumSong.Models
 {
     public class AlbumMetadata
     {
-        [Required(ErrorMessage = "Please Enter Your Name")]
-        public string Name { get; set; } = null; /* Aom 20250514  ปิดคำเตือน null ที่คอมไพเลอร์ตรวจพบ */
+        //[Required(ErrorMessage = "Please Enter Your Name")]
+        //public string Name { get; set; } = null; /* Aom 20250514  ปิดคำเตือน null ที่คอมไพเลอร์ตรวจพบ */
+       
     }
 
     [MetadataType(typeof(AlbumMetadata))]
@@ -27,7 +28,7 @@ namespace AlbumSong.Models
             //FileId = files.Id;
             //this.File = files;
            
-            File.Create(dbcontext,Ifile);
+            File?.Create(dbcontext,Ifile);
 
             List <Song> sonn = this.Songs.ToList();
 
@@ -39,14 +40,14 @@ namespace AlbumSong.Models
             UpdateDate = datenow;
             dbcontext.Albums.Add(this);
             dbcontext.SaveChanges();
-             foreach (Song songs in sonn)
+             
+            foreach (Song songs in sonn)
             {
                 if (!string.IsNullOrEmpty(songs.Name))
                 {
                     songs.Create(dbcontext, this.Id);
                 }
             }
-           
 
             return true;
         }
@@ -54,8 +55,21 @@ namespace AlbumSong.Models
         public Album Update(Ex2DatabaseContext dbContext, IFormFile? Ifile)
         {
             DateTime datenow = DateTime.Now;
-            
-            foreach (Song song in this.Songs) /* Aom 20250514 เรื่องตรวจความถูกต้อง add songmatedata ดัก [Required] */
+            List<Song> allSongIds = dbContext.Songs.Where(s => s.AlbumId == this.Id && s.IsDelete != true).AsNoTracking().ToList();
+            List<int> thisSongIds = this.Songs.Where(s => s.Id != 0).Select(s => s.Id).ToList();
+
+            foreach (Song oldSong in allSongIds)
+            {
+                if (!thisSongIds.Contains(oldSong.Id))
+                {
+                    oldSong.IsDelete = true;
+                    oldSong.UpdateBy = "D";
+                    oldSong.UpdateDate = DateTime.Now;
+                    dbContext.Songs.Update(oldSong);
+                }
+               
+            }
+            foreach (Song song in Songs) /* Aom 20250514 เรื่องตรวจความถูกต้อง add songmatedata ดัก [Required] */
             {
                 if (!string.IsNullOrWhiteSpace(song.Name))/* Aom 20250514  */
                 {
@@ -63,11 +77,9 @@ namespace AlbumSong.Models
                 }
             }
             //var formSongIds = dbContext.Songs.Where(s => s.AlbumId == this.Id).Select(s => s.Id).ToList();
-           
-            
             //if (Ifile != null)
             //{
-                File?.Update(dbContext, Ifile, this);
+                File?.Update(dbContext, Ifile);
             //}
            // this.Songs = null;
             this.Updateby = "John";

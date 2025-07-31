@@ -11,7 +11,8 @@ public partial class Album
 { /* Aom 20250514 การดัก ควรใส่ ไว้ใน model */
     [Key]
     public int Id { get; set; }
-    
+
+    [Required(ErrorMessage = "Please enter your album name")]
     public string Name { get; set; } = null!; /* Aom 20250514 หา ข้อมูล null! */
 
     public int? FileId { get; set; }

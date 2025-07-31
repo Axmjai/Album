@@ -9,77 +9,36 @@
 <div class="row">
     <div class="col-md-6">
         <form asp-action="Edit"  method="post" enctype="multipart/form-data" class="p-4 border rounded shadow-sm bg-light">
-             @Html.HiddenFor(Model => Model.File.FileName) 
+             @Html.HiddenFor(Model => Model.File.FileName)
+            <input type="hidden" name="Id" value="@Model.Id" />
             <div class="form-group mb-3">
                 <label asp-for="Name" class="form-label fw-bold">Name</label>
                 <input asp-for="Name" class="form-control" />
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
 
-            <div class="form-group mb-3">
-                <label class="form-label fw-bold">รูปปกอัลบั้ม</label>
-
-                <div class="mb-2 text-center">
-                    <img id="preview" width="200"
-                    src="@(!string.IsNullOrEmpty(Model?.File?.FileName) 
-                         ? Url.Content("~/uploads/" + Model.File.FileName) : "#")" alt="Preview image" />
-                </div>
-
-                <div class="form-group mb-3">
-                    <label class="form-label fw-bold">Cover Photo</label>
-                    <input type="file" name="Ifile" id="Ifile" class="form-control-file" value="@Model.File.FileName" onchange="previewImage()" />
-                    <div class="mt-3 text-center">
-                        <img id="preview" src="#" alt="Preview image" width="200"
-                        style="display: none; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-                    </div>
-                </div>
+                @Html.EditorFor(Model => Model.File)
 
                 <div class="form-group mb-3">
                     <label asp-for="Description" class="form-label fw-bold">Description</label>
                     <textarea asp-for="Description" class="form-control" rows="3"></textarea>
                 </div>
 
-                <div class="mb-3">
+                <div class="form-group mb-3">
+                    <h5 class="fw-bold">Songs</h5>
 
-                    <button type="button" class="btn btn-secondary text-end" onclick="addSong()">Add Song</button>
-                    <br />
-                    <br />
-                    <table class="table table-bordered" id="songTable">
+                    <button type="submit" name="action" value="addSong" class="btn btn-secondary mb-3">➕ เพิ่มเพลง</button>
+
+                    <table class="table table-bordered">
                         <thead>
                             <tr class="text-center">
                                 <th>ชื่อเพลง</th>
                                 <th>จัดการ</th>
                             </tr>
                         </thead>
-                        <tbody id="songBody">
-                            @{
-                                List<Song> listsong = Model?.Songs.ToList();
-
-                                for (int i = 0; i < Model?.Songs.Count; i++)
-                                {
-                                    if (!string.IsNullOrEmpty(listsong?[i].Name))
-                                    {
-                                        <tr>
-                                            <td>
-                                                <input type="hidden" name="Songs[@i].Id" value="@listsong[i].Id" />
-                                                <input type="hidden" name="Songs[@i].AlbumId" value="@listsong[i].AlbumId" />
-                                                <input type="hidden" name="Songs[@i].CreateBy" value="@listsong[i].CreateBy" />
-                                                <input type="hidden" name="Songs[@i].CreateDate" value="@listsong[i].CreateDate" />
-                                                <input type="hidden" name="Songs[@i].UpdateBy" value="@listsong[i].UpdateBy" />
-                                                <input type="hidden" name="Songs[@i].UpdateDate" value="@listsong[i].UpdateDate" />
-
-                                                <!-- จุดสำคัญ: Hidden IsDelete -->
-                                                <input type="hidden" name="Songs[@i].IsDelete" value="false" class="is-deleted-input" />
-
-                                                <input type="text" name="Songs[@i].Name" class="form-control song-input" value="@listsong[i].Name" />
-                                            </td>
-                                            <td class="text-center">
-                                                <button type="button" class="btn btn-danger" onclick=" RemoveRow(this)">Delete</button>
-                                            </td>
-                                        </tr>
-                                    }
-                                }
-                            }
+                        <tbody>
+                           
+                            @Html.EditorFor(model => model.Songs)
                         </tbody>
                     </table>
                 </div>

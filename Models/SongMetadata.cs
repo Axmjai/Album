@@ -1,13 +1,13 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace AlbumSong.Models
 {
     public class SongMetadata
-    {
-        [Required(ErrorMessage = "Please enter the song title.")]
-        public string Name { get; set; } = null!;
+    { 
     }
 
     [MetadataType(typeof(SongMetadata))]
@@ -15,6 +15,7 @@ namespace AlbumSong.Models
     {
         public Song Create(Ex2DatabaseContext dbcontext,int albumId)
         {
+          
             DateTime datenow = DateTime.Now;
             this.AlbumId = albumId;
             this.IsDelete = false;
@@ -29,22 +30,9 @@ namespace AlbumSong.Models
         public Song Update(Ex2DatabaseContext dbContext)
         {
             DateTime datenow = DateTime.Now;
+
             Song existingSong = dbContext.Songs.AsNoTracking().FirstOrDefault(s => s.Id == this.Id);
-
-            List<Song> allSongIds = dbContext.Songs.Where(s => s.AlbumId == this.Id && s.IsDelete != true).AsNoTracking().ToList();
-            List<int> thisSongIds = dbContext.Songs.Where(s => s.Id != 0).Select(s => s.Id).ToList();
-
-            foreach (Song oldSong in allSongIds)
-            {
-                if (!thisSongIds.Contains(oldSong.Id))
-                {
-                    oldSong.IsDelete = true;
-                    oldSong.UpdateBy = "Toon3";
-                    oldSong.UpdateDate = DateTime.Now;
-                }
-                //dbContext.Songs.Update(oldSong);
-            }
-
+            
             if (this.Id != 0 && existingSong.Name != Name)
             {
                 this.UpdateBy = "John";
@@ -99,7 +87,6 @@ namespace AlbumSong.Models
         }
         public Song Delete(Ex2DatabaseContext dbContext) 
         {
-
             DateTime datenow = DateTime.Now;
 
             this.IsDelete = true;

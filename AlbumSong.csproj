@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Album\EditorTemplates\" />
     <Folder Include="wwwroot\uploads\" />
   </ItemGroup>
 

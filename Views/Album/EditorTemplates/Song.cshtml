@@ -1,0 +1,28 @@
+﻿@model AlbumSong.Models.Song
+
+<tr>
+    <td>
+        @* <input type="hidden" name="Id" value="@Model.Id" /> *@
+        @* <input type="hidden" name="AlbumId" value="@Model.AlbumId" /> *@
+        @Html.HiddenFor(Model => Model.Id)
+        @Html.HiddenFor(Model => Model.AlbumId)
+        @Html.HiddenFor(Model => Model.CreateBy)
+        @Html.HiddenFor(Model => Model.CreateDate)
+        @Html.HiddenFor(Model => Model.IsDelete)
+      
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </td>
+    <td class="text-center">
+        <button type="submit" name="action" value="remove" class="btn btn-danger">ลบ</button>
+    
+        <input type="hidden" name="removeIndex"
+               value="@ViewData.TemplateInfo.GetFullHtmlFieldName("")?.Split('[')[1]?.Split(']')[0]" />
+    </td>
+</tr>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
